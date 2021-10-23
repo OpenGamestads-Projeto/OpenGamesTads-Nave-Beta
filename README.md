@@ -1,5 +1,5 @@
 <h1 align="center">OpenGames Projeto Pratico de Programação</h1>
-<h3 align="center">OpenGamesTads-Nave-Beta Projeto NaveBeta- Projeto e Modelagem de Sistemas de Software Turma T35!!</h3>
+<h3 align="center">OpenGamesTads Uni9 Projeto NaveBeta- Projeto e Modelagem de Sistemas de Software Turma T35!!</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
